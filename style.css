@@ -21,6 +21,7 @@ nav.left {
   align-items: center;
 }
 nav.left input{
+  background-color: #e4e6eb;
   height: 40px;
   border: none;
   border-radius: 40px;
@@ -77,7 +78,7 @@ nav.right .round-icon:hover {
   background: #eee;
 }
 
-main-wrapper {
+.main-wrapper {
   background-color: #eee;
   min-height: 100vh;
   display: flex;
